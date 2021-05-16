@@ -18,6 +18,7 @@ Cross-cutting system functionality - these topics will appear in any software pr
 * Error and Exception Handling and Fault Tolerance
 * User Interaction and Presentation
 * Security - access control, authentication, authorization
+
 These topics will be part of any code review.
   
 ## Key issues in software construction
